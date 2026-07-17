@@ -1,7 +1,5 @@
 # Cloudera Blueprint: [Blueprint Name]
 
-[comment]: <> (Author note: This README is the public face of your blueprint repo. Audience: blueprint authors (you), field SEs evaluating fit, and developers deciding whether to deploy. METADATA.yaml handles catalog tags; this file explains the solution in plain language.)
-
 > Copy this template repo as the starting point for a new blueprint. Keep business and onboarding content here. Populate catalog and website fields in [`METADATA.yaml`](METADATA.yaml). At a minimum, the Blueprint should have these fields. Feel free to add additional ones as you see fit for your Blueprint. After reading this, the user should walk away with an understanding of how the Blueprint works, its purpose, and how to deploy it themself. Once the repo is complete, Cursor/AI can fill a lot of this in for you.
 
 ## Table of Contents
