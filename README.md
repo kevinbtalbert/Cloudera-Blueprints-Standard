@@ -9,7 +9,7 @@
 - [Use Case](#use-case)
 - [Key Features](#key-features)
 - [Quickstart](#quickstart)
-- [Architecture / Software Components](#software-components)
+- [Architecture / Software Components](#architecture)
 - [Target Audience](#target-audience)
 - [Repository Structure](#repository-structure)
 - [Prerequisites](#prerequisites)
