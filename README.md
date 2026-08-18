@@ -53,7 +53,7 @@
 
 [comment]: <> (Why: Shows how Cloudera products and supporting services fit together. Helps platform teams validate dependencies and security review scope. Audience: architects, platform engineers, and technical reviewers.)
 
-Briefly describe the software components or sketch an architecture diagram of the components use.
+Briefly describe the software components and sketch an architecture diagram of the components use. Illustration does not need to be incredibly complex but should illustrate the architecture of the project and its relevant components.
 Sample architecture sketch example: https://github.com/cloudera/CML_AMP_LLM_Chatbot_Augmented_with_Enterprise_Data/blob/main/images/rag-architecture.png
 
 ## Target Audience
