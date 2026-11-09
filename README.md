@@ -1,6 +1,21 @@
 # Cloudera Blueprint: [Blueprint Name]
 
+[comment]: <> (Why: Badges are the catalog header. They identify the author, license, stack, and live GitHub activity before anyone reads the overview. Audience: catalog visitors, SEs, and developers scanning the repo. Replace bracketed values. Keep Author, License, Cloudera Blueprint, Stars, and Forks. Add a language or runtime badge only when it applies, and point it at the file that pins that version. URL-encode spaces as %20.)
+
+[![Author-[Author Name]](https://img.shields.io/badge/Author-[Author%20Name]-555555)](https://github.com/[github-username])
+[![License](https://img.shields.io/badge/License-[LICENSE]-blue.svg)](#license)
+[![Python](https://img.shields.io/badge/Python-[version]-blue.svg)]([requirements-file])
+[![Cloudera Blueprint](https://img.shields.io/badge/Cloudera-Blueprint-f96702.svg)](METADATA.yaml)
+[![Stars](https://img.shields.io/github/stars/[org]/[repo]?logo=github&cacheSeconds=300)](https://github.com/[org]/[repo]/stargazers)
+[![Forks](https://img.shields.io/github/forks/[org]/[repo]?logo=github&cacheSeconds=300)](https://github.com/[org]/[repo]/network/members)
+
 > Copy this template repo as the starting point for a new blueprint. Keep business and onboarding content here. Populate catalog and website fields in [`METADATA.yaml`](METADATA.yaml). At a minimum, the Blueprint should have these fields. Feel free to add additional ones as you see fit for your Blueprint. After reading this, the user should walk away with an understanding of how the Blueprint works, its purpose, and how to deploy it themself. Once the repo is complete, Cursor/AI can fill a lot of this in for you.
+
+[comment]: <> (Why: A centered header image is the visual identity of the blueprint on GitHub, before the reader reaches the table of contents. Audience: catalog browsers and anyone sharing the repo link. Use a logo or icon, not the architecture diagram. Store it under assets/, write a short alt name, and keep width around 420–480. Omit the block if you have no image; do not leave it commented out. Example: https://github.com/cloudera-applied-ai/AI_Blueprint_Altered-Video-Detection)
+
+<p align="center">
+  <img src="assets/[header-image].png" alt="[Blueprint Name]" width="450" />
+</p>
 
 ## Table of Contents
 
